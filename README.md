@@ -27,21 +27,19 @@ I am focused on Blue Team and SOC operations, while also studying offensive secu
 
 ---
 
-### 🎯 Core Focus
+## 🧪 Projects & Labs
 
-- SOC Operations
-- Blue Team
-- Incident Response
-- Threat Hunting
-- Digital Forensics
-- SIEM Monitoring
-- Detection Engineering
-- Identity and Access Management
-- Cloud Security
-- Log Analysis
-- User Behavior Analysis
-- Security Policy Violations
-- False Positive Reduction
+### SOC / Blue Team
+
+- [SOC Log Correlation with PowerShell](https://github.com/l4rocha/soc-log-correlation-powershell)  
+  A practical SOC lab using PowerShell to correlate authentication logs by username and source IP, identifying multiple failed logons and successful logons after failures.
+
+### Coming Soon
+
+- Digital Forensics investigation with IPED
+- Windows Event Log analysis lab
+- Threat hunting hypothesis lab
+- Incident response case study
 
 ---
 
@@ -94,23 +92,6 @@ I am focused on Blue Team and SOC operations, while also studying offensive secu
 - Active Directory Exploitation
 - Hacking Web Application
 - Ethical Hacking WiFi Pentesting
-
----
-
-### 🧪 Projects & Labs
-
-I am currently organizing practical cybersecurity labs and write-ups focused on:
-
-- Digital Forensics investigations
-- IPED-based forensic analysis
-- SOC alert analysis and triage
-- SIEM detection logic
-- Threat hunting hypotheses
-- Incident response scenarios
-- Windows and authentication log analysis
-- MITRE ATT&CK mapping
-
-More projects coming soon.
 
 ---
 
