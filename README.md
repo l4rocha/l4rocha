@@ -27,7 +27,7 @@ I am focused on Blue Team and SOC operations, while also studying offensive secu
 
 ---
 
-## 🧪 Projects & Labs
+### 🧪 Projects & Labs
 
 ### SOC / Blue Team
 
@@ -43,7 +43,7 @@ I am focused on Blue Team and SOC operations, while also studying offensive secu
 
 ---
 
-## 🧰 Tools & Platforms
+### 🧰 Tools & Platforms
 
 ### 🛰️ SIEM, SOAR & Monitoring
 
@@ -116,8 +116,6 @@ I am focused on Blue Team and SOC operations, while also studying offensive secu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Rocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-oliveira)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@biel.rocha.oliveira)
 
-Soon: Medium articles and cybersecurity write-ups.
-
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=bielrisk&style=for-the-badge&color=4A9886)
+![Profile Views](https://komarev.com/ghpvc/?username=l4rocha&style=for-the-badge&color=4A9886)
